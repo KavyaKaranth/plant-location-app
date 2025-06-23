@@ -30,3 +30,18 @@ This is a mobile app to help users identify and locate plants in real-time using
 ```bash
 git clone https://github.com/KavyaKaranth/plant-location-app.git
 cd plant-location-app
+Install dependencies:
+For backend:
+
+bash
+Copy
+Edit
+cd backend
+npm install
+For frontend:
+
+bash
+Copy
+Edit
+cd ../plant-locator
+npm install
